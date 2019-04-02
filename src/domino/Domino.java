@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author 10
+ * @author Elkin Moreno y Luis Large
  */
 public class Domino {
 

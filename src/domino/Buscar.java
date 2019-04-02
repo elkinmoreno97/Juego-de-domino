@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 /**
  *
- * @author 10
+ * @author Elkin Moreno y Luis Large
  */
 public class Buscar {
     int[] usadas = new int[28];

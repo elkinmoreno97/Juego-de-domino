@@ -8,7 +8,7 @@ package domino;
 import java.util.ArrayList;
 /**
  *
- * @author 10
+ * @author Elkin Moreno y Luis Large
  */
 public class Jugador {
      private ArrayList<Ficha> fichas;

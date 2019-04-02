@@ -8,9 +8,10 @@ package domino;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
 /**
  *
- * @author 10
+ * @author Elkin Moreno y Luis Large
  */
 public class Repartir {
     private ArrayList<Ficha> fichas;
@@ -211,5 +212,10 @@ public class Repartir {
                 jugador.getFichasjugador1();
             }
         }
+        
+        
     }
+    
+    
+    
 }
